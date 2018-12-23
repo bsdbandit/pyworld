@@ -3,7 +3,6 @@
 #This script keeps my mac osx uptodate with the #    
 #latest patches and updates                     #
 #written by bsdbandit                           #
-#sept 30, 2010                                  #
 #################################################
 
 from subprocess import call, PIPE, Popen
